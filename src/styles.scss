@@ -1,6 +1,8 @@
 :root {
-    --dark-grey: #333333;
-    --light-grey: #808080;
+    --dark-gray: #333333;
+    --light-gray: #808080;
+    --light-text: #e4e3e3;
+    --medium-text: #969696;
     --yellow: #FFB612;
     --red: #dc0a17;
     --green: #2FC022;
@@ -10,7 +12,8 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-sizing: border-box;
     padding: 0;
-    margin:0
+    margin:0;
+  
 }
 
 body {
